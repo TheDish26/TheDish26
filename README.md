@@ -5,7 +5,7 @@
 
 💞️ I’m eager to collaborate on projects that combine intuitive user interfaces with robust security measures, aiming to create seamless and secure user experiences.
 
-📫 How to reach me: jourdanquevedo@gmail.com
+📫 How to reach me: jourdanquevedo@gmail.com or www.linkedin.com/in/jourdanfredericquevedo
 
 😄 Pronouns: He/Him
 
