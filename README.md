@@ -1,10 +1,9 @@
 👋 Hi, I’m @TheDish26
+👀 I’m passionate about front-end development, cybersecurity, and delivering exceptional customer service experiences.
 
-👀 I’m interested in software development, open-source contributions, and exploring new technologies.
+🌱 I’m currently diving deeper into advanced coding techniques and exploring cloud security to enhance my technical expertise.
 
-🌱 I’m currently learning advanced features of Visual Studio Code and enhancing my coding skills.
-
-💞️ I’m looking to collaborate on innovative projects that make a positive impact.
+💞️ I’m eager to collaborate on projects that combine intuitive user interfaces with robust security measures, aiming to create seamless and secure user experiences.
 
 📫 How to reach me: jourdanquevedo@gmail.com
 
