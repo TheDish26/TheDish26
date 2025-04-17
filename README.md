@@ -1,19 +1,18 @@
-👋 Hi, I’m @TheDish26
-👀 I’m passionate about front-end development, cybersecurity, and delivering exceptional customer service experiences.
+👋 Hi, I’m @TheDish26 (Jourdan Quevedo)
+👀 Passionate about front-end development, cybersecurity, and delivering exceptional customer service experiences.
 
-🌱 I’m currently diving deeper into advanced coding techniques and exploring cloud security to enhance my technical expertise.
+🌱 Currently diving deeper into advanced coding and cloud security, with hands-on experience using Python, JavaScript, MySQL, and PHP to build ERP systems and security tools.
+🔐 Ex–Emergency Logistics Manager turned code-driven problem solver — now creating seamless user interfaces backed by secure infrastructure.
 
-💞️ I’m eager to collaborate on projects that combine intuitive user interfaces with robust security measures, aiming to create seamless and secure user experiences.
+💞️ Always open to collaborating on projects that blend intuitive UI with robust cybersecurity, especially ones that make a real-world impact.
 
-📫 How to reach me: jourdanquevedo@gmail.com or www.linkedin.com/in/jourdanfredericquevedo
+📫 Let’s connect!
+📧 jourdanquevedo@gmail.com
+🔗 LinkedIn
 
 😄 Pronouns: He/Him
-
-⚡ Fun facts: 
-
-🎬 Horror Enthusiast: You're captivated by horror movies and TV shows, always on the lookout for the next spine-chilling experience.​
-
-🎮 Gamer at Heart: My favorite games include Monster Hunter Wilds, Fortnite, and Phasmophobia.​
-
-💪 Fitness Aficionado: When I am not in front of a screen, I enjoy lifting weights, cycling, and swimming to stay active and energized.​
+⚡ Fun Facts:
+🎬 Horror Enthusiast – Constantly hunting for the next spine-chilling movie or series.
+🎮 Gamer at Heart – Into Monster Hunter Wilds, Fortnite, and Phasmophobia.
+💪 Fitness Aficionado – Big on lifting, cycling, and swimming when I’m not in front of a screen.
 
